@@ -62,10 +62,21 @@ This section contains screenshots of each page, at various screen widths, that y
 
 ## Landing Page
 
+![image](https://user-images.githubusercontent.com/105513598/194936260-137fd063-08b1-42f8-ab78-218992610dcf.png)
+
 ## Visualization Pages
+
+![image](https://user-images.githubusercontent.com/105513598/194936330-007c056b-ca70-463d-a574-b9146119dbf9.png)
 
 ## Comparisons Page
 
+![image](https://user-images.githubusercontent.com/105513598/194936415-6cc8531f-ca75-4058-b6ee-2c228d67c1d4.png)
+
 ## Data Page
 
+![image](https://user-images.githubusercontent.com/105513598/194936510-33d84c00-f0dd-4f59-87b0-80fe87add820.png)
+
 ## Navigation Bar
+
+![image](https://user-images.githubusercontent.com/105513598/194936575-9cac1298-05c6-4a44-bfc4-f13dea63b7bd.png)
+
